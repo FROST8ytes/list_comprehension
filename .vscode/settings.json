@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "debug.allowBreakpointsEverywhere": true,
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.inlayHints.enabled": "on",
+    "editor.indentSize": 2
+  }
+}

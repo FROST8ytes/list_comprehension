@@ -1,0 +1,8 @@
+[package]
+name = "list_comprehension"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ammar Farhan Mohamad Rizam <ammarfmr11@gmail.com>"]
+
+[dependencies]
+comp_macro = { path = "comp_macro" }
